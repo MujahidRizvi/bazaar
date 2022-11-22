@@ -18,5 +18,8 @@
   "homepage": "https://github.com/MujahidRizvi/bazaar#readme",
   "devDependencies": {
     "cypress": "^11.1.0"
+  },
+  "dependencies": {
+    "typescript": "^4.9.3"
   }
 }
